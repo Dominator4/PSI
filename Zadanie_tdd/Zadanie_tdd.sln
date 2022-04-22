@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zadanie_tdd", "Zadanie_tdd.pyproj", "{423B2C3F-8740-4B7C-81C1-804AA84A2F41}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestMat", "..\TestMat\TestMat.pyproj", "{CA31038C-ABF9-427C-88B1-62FEE31E29B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{423B2C3F-8740-4B7C-81C1-804AA84A2F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{423B2C3F-8740-4B7C-81C1-804AA84A2F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA31038C-ABF9-427C-88B1-62FEE31E29B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA31038C-ABF9-427C-88B1-62FEE31E29B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
